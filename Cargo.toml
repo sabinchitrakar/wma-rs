@@ -5,8 +5,8 @@ authors = ["immortal infidel <immortal.infidel@gmail.com>"]
 edition = "2018"
 license="MIT"
 description="Weighted Moving Average (WMA) In Rust"
-repository="https://github.com/immortalinfidel/rsi-rs"
-homepage="https://github.com/immortalinfidel/rsi-rs"
+repository="https://github.com/immortalinfidel/wma-rs"
+homepage="https://github.com/immortalinfidel/wma-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
